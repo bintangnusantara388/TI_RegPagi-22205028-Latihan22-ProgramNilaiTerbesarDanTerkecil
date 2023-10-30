@@ -4,6 +4,15 @@
  */
 package latihan23;
 import java.util.Scanner;
+/**
+ *
+ * @author user 
+ Nama              : Bintang Fajar Nusantara 
+ Nim               : 22205028 
+ Prodi             : Teknik Informatika 
+ Kelas             : PBO 1
+ Deskripsi Program : Program ini berisi program yang menampilkan Program Nilai Terbesar dan Nilai Terkecil
+ */
 
 public class Latihan23 {
     public static void main(String[] args) {
